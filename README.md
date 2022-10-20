@@ -1,7 +1,4 @@
-This my instruction
+Стол
+Стул
+Книги
 
-ivanna
-
-555
-
-tri tankista toporasa
